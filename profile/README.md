@@ -1,6 +1,6 @@
-### Eonyx
+## [Eonyx Infotech LLP](https://eonyx.io)
 
-[Eonyx Infotech LLP](https://eonyx.io)
+State of the art software development firm based in Srinagar, Kashmir.
 
 Connect
 -------
