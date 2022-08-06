@@ -1,3 +1,7 @@
+<div style="text-align: center;">
+    <img src="https://eonyx.io/eonyx_assets/eonyx.svg" />
+</div>
+
 ## [Eonyx Infotech LLP](https://eonyx.io)
 
 State of the art software development firm based in Srinagar, Kashmir.
