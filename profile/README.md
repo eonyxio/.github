@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="text-align: center; margin-bottom: 20px;">
     <img src="https://eonyx.io/eonyx_assets/eonyx.svg" />
 </div>
 
